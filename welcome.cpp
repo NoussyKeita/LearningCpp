@@ -1,8 +1,7 @@
 #include <iostream>
 
-using namespace std;
-
 int main(){
-
-	cout << "Hello, welcome to gedit" << endl;
+	
+	std::cout << "Hello, welcome to github" << std::endl;
+	
 return 0;}
